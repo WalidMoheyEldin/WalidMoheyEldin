@@ -1,5 +1,7 @@
 # 💫About Me :
-I have been working in the software development industry since 2006. I published many desktop applications, web applications, and mobile applications. 
+With 17 years of experience in software development, I have a proven track record of building high-quality desktop, web, and mobile applications using a wide range of programming technologies, such as C#.NET, SQL Server, HTML, CSS, ASP.NET, Web API, .NET Core, React JS, Xamarin, Blazor, and Microsoft Azure. 
+As the Head of Software Development at SoftTrend, I lead a team of developers and actively participate in coding, business analysis, project planning, and prioritization. Additionally, I oversee team expansion and hiring while staying up to date with the latest programming technologies through research and development. 
+My extensive portfolio includes e-commerce, sales order processing, CRM, and company websites, among others. Previously, I held roles as a Senior Software Developer and Software Engineer Technical Lead. Driven and result oriented, I excel in delivering complex projects in a timely and efficient manner. 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/walid.ibrahim.moheyeldin) 
