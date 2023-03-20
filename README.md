@@ -1,4 +1,4 @@
-# BIO
+# Bio
 
 Since 2006, I have gained extensive expertise in software development, project management, and solution architecture, demonstrating a consistent ability to deliver top-tier desktop, web, and mobile applications using a diverse range of programming technologies, including C#.NET, SQL Server, HTML, CSS, ASP.NET, Web API, .NET Core, React JS, Xamarin, Blazor, and Microsoft Azure.
 
